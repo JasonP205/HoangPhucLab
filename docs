@@ -1,4 +1,0 @@
-mkdir docs
-git add docs
-git commit -m "Create docs folder"
-git push
